@@ -8,3 +8,7 @@ http://blog.cloudfender.com/post/102607665327/6-links-that-will-show-you-what-go
 http://swagger.io/
 ## UI / JS##
 http://controlsjs.com/
+## Bytecode ##
+* http://bytebuddy.net/ 
+* http://blog.eisele.net/2015/02/byteman-swiss-army-knife-for-byte-code.html
+
