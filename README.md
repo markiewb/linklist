@@ -11,4 +11,7 @@ http://controlsjs.com/
 ## Bytecode ##
 * http://bytebuddy.net/ 
 * http://blog.eisele.net/2015/02/byteman-swiss-army-knife-for-byte-code.html
+## Presentation ##
+* http://nicobruenjes.de/2014/07/praesentationen-mit-reveal-js/
+
 
