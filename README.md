@@ -14,4 +14,10 @@ http://controlsjs.com/
 ## Presentation ##
 * http://nicobruenjes.de/2014/07/praesentationen-mit-reveal-js/
 
+## NetBeans-API ##
+* Go to type: http://bits.netbeans.org/dev/javadoc/org-netbeans-modules-java-sourceui/org/netbeans/api/java/source/ui/TypeElementFinder.html
+* Open elements: http://bits.netbeans.org/dev/javadoc/org-netbeans-modules-java-sourceui/org/netbeans/api/java/source/ui/ElementOpen.html
+* ElementIcons http://bits.netbeans.org/dev/javadoc/org-netbeans-modules-java-sourceui/org/netbeans/api/java/source/ui/ElementIcons.html
+* Widgets aus Sourcegroups http://bits.netbeans.org/8.1/javadoc/org-netbeans-modules-java-project-ui/org/netbeans/spi/java/project/support/ui/PackageView.html
+* JavaSDK herausfinden http://bits.netbeans.org/8.1/javadoc/org-netbeans-modules-java-project/org/netbeans/spi/java/project/support/PreferredProjectPlatform.html
 
