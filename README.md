@@ -20,4 +20,6 @@ http://controlsjs.com/
 * ElementIcons http://bits.netbeans.org/dev/javadoc/org-netbeans-modules-java-sourceui/org/netbeans/api/java/source/ui/ElementIcons.html
 * Widgets aus Sourcegroups http://bits.netbeans.org/8.1/javadoc/org-netbeans-modules-java-project-ui/org/netbeans/spi/java/project/support/ui/PackageView.html
 * JavaSDK herausfinden http://bits.netbeans.org/8.1/javadoc/org-netbeans-modules-java-project/org/netbeans/spi/java/project/support/PreferredProjectPlatform.html
+* Try to find a given node in the logical view by its lookup content
+http://bits.netbeans.org/dev/javadoc/org-netbeans-modules-projectuiapi/org/netbeans/spi/project/ui/PathFinder.html
 
